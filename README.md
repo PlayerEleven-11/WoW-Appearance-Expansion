@@ -2,21 +2,27 @@
 
 **More character choices. Same WoW.**
 
-Turtle WoW 1.18 skins, hairstyles, hair colors, tusks, and other facial features ported to **WoW 3.3.5a (12340)** for compatible local **AzerothCore** servers. Includes original-race appearance additions and High Elf options adapted for Blood Elves—not custom races.
+Turtle WoW 1.18 skins, hairstyles, hair colors, tusks and other facial features ported to **WoW 3.3.5a (12340)** for compatible local **AzerothCore** servers. Includes original-race additions and High Elf options adapted for Blood Elves. No custom races or Draenei additions.
 
-## Download status
+## Download and install
 
-The installer has been tested locally. A public download has not been published yet; remaining asset-sharing permissions are being reviewed. GitHub’s source-code ZIP is not the installer.
+**[Download the public beta](https://github.com/PlayerEleven-11/WoW-Appearance-Expansion/releases/tag/v0.2.1-beta)** — choose **WoW-Appearance-Expansion-0.2.1-beta.zip** under Assets, not Source code.
 
-## What to expect
+1. Extract the ZIP. Use test copies of your client and server first.
+2. Close WoW and worldserver, then double-click **Setup.cmd**.
+3. Choose both folders and click **Install**.
 
-A Windows installer lets you select your client and server folders and backs up replaced files. Use test copies first. Not every repack, HD client, or server core is supported. An optional advanced Playerbots tool refreshes cosmetic choices without changing bot behavior or progression.
+Backups are automatic. The main installer does not change your database. Optional Playerbots cosmetic refresh is an advanced tool; see **Help.md** inside the ZIP.
+
+**Public beta:** tested locally, not on every repack, HD client or core. Unknown modified target files are refused. The installer is unsigned; do not disable security software.
 
 ## Credits
 
-- **Frency, Quarrion, and other Turtle WoW team contributors:** original custom artwork. An additional contributor prefers to remain anonymous.
-- **player eleven (Discord):** adaptation, project coordination, packaging, and testing, with AI-assisted tooling.
+- **Frency, Quarrion, and other Turtle WoW team contributors:** original custom artwork. An additional contributor prefers anonymity.
+- **PlayerEleven (Discord):** adaptation, project coordination, packaging and testing, with AI-assisted tooling.
 
-Original assets belong to their respective creators and rights holders. Permission from Frency and Quarrion was reported in project correspondence; permission from the additional contributor remains unconfirmed. Attribution does not grant a redistribution license.
+Quarrion allowed extraction of the source assets; Frency’s permission was reported by our contact. The additional contributor’s permission remains unconfirmed. No blanket asset license or approval from every contributor is claimed.
 
-This is an independent community project, not an official Blizzard, Turtle WoW, or AzerothCore release. Creators with questions or concerns can contact player eleven on Discord or open a GitHub issue.
+If an original creator wants their work removed or their credit corrected, [open an issue](https://github.com/PlayerEleven-11/WoW-Appearance-Expansion/issues) or contact **PlayerEleven** on Discord. The maintainer will remove affected work upon request.
+
+Independent community project—not an official Blizzard, Turtle WoW or AzerothCore release. Original assets remain the property of their respective owners.
