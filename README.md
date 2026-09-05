@@ -6,7 +6,7 @@ Turtle WoW 1.18 skins, hairstyles, hair colors, tusks and other facial features 
 
 ## Download and install
 
-**[Download the public beta](https://github.com/PlayerEleven-11/WoW-Appearance-Expansion/releases/tag/v0.2.1-beta)** — choose **WoW-Appearance-Expansion-0.2.1-beta.zip** under Assets, not Source code.
+**[Download the public beta](https://github.com/PlayerEleven-11/WoW-Appearance-Expansion/releases/tag/v0.2.2-beta)** — choose **WoW-Appearance-Expansion-0.2.2-beta.zip** under Assets, not Source code.
 
 1. Extract the ZIP. Use test copies of your client and server first.
 2. Close WoW and worldserver, then double-click **Setup.cmd**.
@@ -26,3 +26,4 @@ Quarrion allowed extraction of the source assets; Frency’s permission was repo
 If an original creator wants their work removed or their credit corrected, [open an issue](https://github.com/PlayerEleven-11/WoW-Appearance-Expansion/issues) or contact **PlayerEleven** on Discord. The maintainer will remove affected work upon request.
 
 Independent community project—not an official Blizzard, Turtle WoW or AzerothCore release. Original assets remain the property of their respective owners.
+
