@@ -25,7 +25,7 @@ Turtle WoW 1.18 skins, hairstyles, hair colors, tusks and other facial features 
 
 1. Extract the ZIP. Use test copies of your client and server first.
 2. Close WoW and worldserver, then double-click **Setup.cmd**.
-3. Choose both folders. Leave the optional proportions box off for the original appearance-only package, or tick it for fuller female bodies. Click **Install**.
+3. Choose both folders. Leave the optional proportions box off for the original appearance-only package, or tick it for thicc female bodies. Click **Install**.
 
 
 
